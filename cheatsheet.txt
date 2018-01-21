@@ -6,6 +6,7 @@ npm update -g @angular/cli@latest - https://github.com/angular/angular-cli/wiki/
 ng new angular-tour-of-heroes
 ng serve --open
 ng generate component heroes
+ng generate component hero-detail
 
 Git
 ---
