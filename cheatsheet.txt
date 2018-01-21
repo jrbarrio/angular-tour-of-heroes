@@ -1,0 +1,16 @@
+Angular CLI
+-----------
+
+npm install -g @angular/cli
+npm update -g @angular/cli@latest - https://github.com/angular/angular-cli/wiki/stories-1.0-update
+ng new angular-tour-of-heroes
+ng serve --open
+
+
+Git
+---
+
+git tag -a step-2 -m "2. The Application Shell"
+git push
+git push --tags
+git push --follow-tags
