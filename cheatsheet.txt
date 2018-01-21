@@ -7,6 +7,9 @@ ng new angular-tour-of-heroes
 ng serve --open
 ng generate component heroes
 ng generate component hero-detail
+ng generate service hero --module=app
+ng generate component messages
+ng generate service message --module=app
 
 Git
 ---
